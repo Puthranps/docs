@@ -13,6 +13,9 @@ git clone https://github.com/arkecosystem/docs
 cd docs
 yarn install
 yarn dev
+
+Note: This project is developed under Node v9.11.1, 
+[it is reccomended to install NVM with this project](https://github.com/creationix/nvm)
 ```
 
 ## Security
